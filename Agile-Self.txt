@@ -1,0 +1,2666 @@
+CHAPTER 1 
+
+Agile software development methodology is an process for developing software (like 
+other software development methodologies – Waterfall model, V-Model, Iterative 
+model etc.) However, Agile methodology differs significantly from other 
+methodologies. In English, Agile means ‘ability to move quickly and easily’ and 
+responding swiftly to change – this is a key aspect of Agile software development as 
+well. 
+
+Topics covered 
+
+. Brief overview of Agile Methodology 
+. Example of Agile Software Development 
+. Difference between Agile model and Non-Agile models 
+. When to use Agile and Non-Agile models 
+. Advantages of Agile Methodology 
+. Disadvantages of the Agile Methodology 
+
+
+Brief overview of Agile Methodology 
+
+. In traditional software development methodologies like Waterfall model, a project 
+can take several months or years to complete and the customer may not get to 
+see the end product until the completion of the project. 
+. At a high level, non-Agile projects allocate extensive periods of time for 
+Requirements gathering, design, development, testing and User Acceptance 
+Testing, before finally deploying the project. 
+. In contrast to this, Agile projects have Sprints or iterations which are shorter in 
+duration (Sprints/iterations can vary from 2 weeks to 2 months) during which pre-
+determined features are developed and delivered. 
+. Agile projects can have one or more iterations and deliver the complete product 
+at the end of the final iteration. 
+
+
+Example of Agile software development 
+
+Example: Google is working on project to come up with a competing product for MS 
+Word, that provides all the features provided by MS Word and any other features 
+requested by the marketing team. The final product needs to be ready in 10 months of 
+time. Let us see how this project is executed in traditional and Agile methodologies. 
+
+ 
+
+ 
+
+ 
+
+
+In traditional Waterfall model – 
+
+. At a high level, the project teams would spend 15% of their time on gathering 
+requirements and analysis (1.5 months) 
+. 20% of their time on design (2 months) 
+. 40% on coding (4 months) and unit testing 
+. 20% on System and Integration testing (2 months). 
+. At the end of this cycle, the project may also have 2 weeks of User Acceptance 
+testing by marketing teams. 
+. In this approach, the customer does not get to see the end product until the end 
+of the project, when it becomes too late to make significant changes. 
+
+
+The image below shows how these activities align with the project schedule in 
+traditional software development. 
+
+ 
+
+Agile versus traditional software development methodologies 
+
+
+ 
+
+ 
+
+
+With Agile development methodology – 
+
+. In the Agile methodology, each project is broken up into several ‘Iterations’. 
+. All Iterations should be of the same time duration (between 2 to 8 weeks). 
+. At the end of each iteration, a working product should be delivered. 
+. In simple terms, in the Agile approach the project will be broken up into 10 
+releases (assuming each iteration is set to last 4 weeks). 
+. Rather than spending 1.5 months on requirements gathering, in Agile software 
+development, the team will decide the basic core features that are required in the 
+product and decide which of these features can be developed in the first iteration. 
+. Any remaining features that cannot be delivered in the first iteration will be taken 
+up in the next iteration or subsequent iterations, based on priority. 
+. At the end of the first iterations, the team will deliver a working software with the 
+features that were finalized for that iteration. 
+. There will be 10 iterations and at the end of each iteration the customer is 
+delivered a working software that is incrementally enhanced and updated with 
+the features that were shortlisted for that iteration. 
+
+
+The iteration cycle of an Agile project is shown in the image below. 
+
+ 
+
+Agile Methodology development-what is agile
+
+ 
+
+gile software Development Methodology
+This approach allows the customer to interact and work with functioning software at the 
+end of each iteration and provide feedback on it. This approach allows teams to take up 
+changes more easily and make course corrections if needed. In the Agile approach, 
+software is developed and released incrementally in the iterations. An example of how 
+software may evolve through iterations is shown in the image below. 
+
+ 
+
+Agile Iterative Development
+
+Agile methodology gives more importance to collaboration within the team, collaboration 
+with the customer, responding to change and delivering working software. 
+
+Agile development has become common place in IT industry. In a recent survey over 
+52% of respondents said that their company practiced Agile development in one form or 
+another. Irrespective of your role in the organization, it has become essential to 
+understand how Agile development works and how it differs from other forms of 
+software development. 
+
+In traditional approach each job function does its job and hands over to the next job 
+function. The previous job functions have to signoff before it is handed over the next job 
+function authenticating that the job is full and complete in all aspects. For example, 
+Requirement gathering is completed and handed over to design phase and it is 
+subsequently handed over to development and later to testing and rework. Each job 
+function is a phase by itself. 
+
+In Agile way of working, each feature is completed in terms of design, development, 
+code, testing and rework, before the feature is called done. There are no separate 
+phases and all the work is done in single phase only. 
+
+Difference between Agile model and Non-Agile models 
+
+Parameters 
+
+Agile Model 
+
+Non-Agile Models 
+
+Approach of this 
+methodology 
+
+This methodology is very 
+flexible and adjustable and 
+can adapt to the project 
+needs. 
+
+This methodology is not as 
+flexible as Agile model and 
+it’s tough to accommodate 
+changes in the project. 
+
+Measurement of Success 
+
+The success of the project 
+in Agile model is measured 
+by the Business value 
+delivered. 
+
+In this methodology the 
+success of the project is 
+measured by the 
+Conformation to plan. 
+
+Size of the Project 
+
+The Project size is usually 
+small in Agile model. 
+However larger projects can 
+
+The project size is Large in 
+non- Agile models. 
+
+
+
+
+also be handled using 
+the Scaled Agile 
+Framework (SAFe). 
+
+Style of Management 
+
+The style of management in 
+Agile model is not 
+centralized. It is distributed 
+among the team members. 
+
+The management style in 
+the non-Agile models is 
+dictatorial. Only one person 
+is the decision maker and 
+rest of the people follows 
+him. 
+
+Ability to adapt to change 
+
+In Agile model the changes 
+are accepted and adapted 
+as per the project needs. 
+
+But in non-Agile models the 
+changes are not accepted 
+easily in the later stages of 
+the development. 
+
+Documentation required 
+
+Less documentation is 
+required in Agile. 
+
+More documentation is 
+required in non-Agile 
+models. 
+
+Importance of 
+
+In Agile model more 
+emphasis is given to the 
+people that means it’s 
+People- Oriented. 
+
+In non-Agile models the 
+more importance is given to 
+the process hence it’s 
+Process- Oreinted. 
+
+Cycles or iterations 
+
+Agile methodology has 
+many cycles or iterations 
+which is also known as 
+
+But, in Non-Agile 
+methodology the cycles are 
+limited. 
+
+
+
+
+Sprints. 
+
+Planning in Advance 
+
+There is minimal upfront 
+planning in Agile 
+methodology. 
+
+In Non-Agile models the 
+planning should be 
+complete before the 
+development starts. 
+
+Revenue 
+
+In Agile method the return 
+on investment is early in the 
+project cycle. 
+
+In non-Agile methods the 
+return on investment is at 
+the end of the project. 
+
+Size of the team 
+
+The size of the team in Agile 
+methodology is usually 
+small and creative. 
+
+But in Non-Agile models the 
+team size is large. 
+
+
+
+When to use Agile and Non-Agile models 
+
+Project Attributes 
+
+Agile Model 
+
+Non-Agile Model 
+
+Requirement of the Project 
+
+Requirements in Agile 
+model can change as per 
+the customer requirement. 
+Sometimes requirements 
+are not very clear. 
+
+In Non-Agile models the 
+requirements are very clear 
+before entering into the 
+development phases. Any 
+change in the requirement 
+is not easily accepted 
+during the development 
+phases. 
+
+Size of the Project 
+
+The Project size is small in 
+
+But in Non-Agile models the 
+
+
+
+
+Agile model hence small 
+team is required. 
+
+Project size is usually big 
+hence big team is required. 
+
+Design of the Project 
+
+In Agile model the 
+architecture is made as per 
+the current requirements but 
+is designed to be flexible. 
+
+In Non-Agile models the 
+architecture is made as per 
+the current requirements as 
+well as for future 
+requirements. 
+
+Planning and Control of the 
+Project 
+
+In Agile model the planning 
+of the project is Internalized 
+and has qualitative control. 
+
+But in Non-Agile models the 
+plans are documented 
+properly and have 
+quantitative control. 
+
+Type of Customers 
+
+Agile methodology is 
+followed by the collaborated, 
+dedicated collated and 
+knowledgeable customers. 
+
+In Non-Agile models the 
+customers are of Contract 
+provisions. 
+
+Developers required 
+
+In Agile model the 
+developers should be 
+knowledgeable, analytically 
+strong, collated and 
+collaborative. 
+
+In Non-Agile models the 
+developers should be more 
+Plan Oriented. 
+
+Refactoring 
+
+In Agile model refactoring is 
+not costly. 
+
+But in Non-Agile models the 
+refactoring is very costly. 
+
+Risks involved 
+
+Usually in Agile models the 
+
+In Non-Agile models the 
+
+
+
+
+chances of occurrence of 
+unknown risks are more 
+which can have major 
+impact in the project. 
+
+risks are understood clearly 
+and the impact of the risk in 
+the project is very less. 
+
+
+
+Advantages of Agile Methodology 
+
+. In Agile methodology the delivery of software is unremitting. 
+. The customers are satisfied because after every Sprint working feature of the 
+software is delivered to them. 
+. Customers can have a look of the working feature which fulfilled their 
+expectations. 
+. If the customers has any feedback or any change in the feature then it can be 
+accommodated in the current release of the product. 
+. In Agile methodology the daily interactions are required between the business 
+people and the developers. 
+. In this methodology attention is paid to the good design of the product. 
+. Changes in the requirements are accepted even in the later stages of the 
+development. 
+
+
+Disadvantages of the Agile Methodology 
+
+. In Agile methodology the documentation is less. 
+. Sometimes in Agile methodology the requirement is not very clear hence it’s 
+difficult to predict the expected result. 
+. In few of the projects at the starting of the software development life cycle it’s 
+difficult to estimate the actual effort required. 
+. The projects following the Agile methodology may have to face some unknown 
+risks which can affect the development of the project. 
+
+
+ 
+
+ 
+
+ 
+
+What is Agile Software Development and Agile Manifesto? 
+
+Testers in agile team are called as team members, not identified by his/her skill 
+specialization. In fact, testers and developers are together are called as Development 
+
+
+team. The word “Development team” not only contains developers, but also testers who 
+are actively involved in the development of the product increment. The testers form part 
+of fully cross functional Agile team where they work with business representatives and 
+developers in tandem. The team members of an Agile team communicate more 
+frequently and informally to develop product with good quality. 
+
+Agile Software Development 
+
+Post 2000, motivated individuals with similar point of view, brought out a set of ideas 
+and values that are known as the Agile Manifesto. There are four important aspects 
+that make up the Agile Manifesto as listed below: 
+
+. Individuals and interactions over processes and tools 
+. Working software over comprehensive documentation 
+. Customer collaboration over contract negotiation 
+. Responding to change over following a plan 
+
+
+Please note items on the left have greater value on them than items on the right; It 
+should be read as left is important “over” right and should not to be replaced with 
+“instead”. 
+
+Individuals and Interactions 
+
+People form the core of Agile software development and teamwork is given high 
+importance than using a specific processes and tools. Any processes and tools should 
+be used as a enabler to increase the team work rather than replacing it. Communication 
+has also plays a vital role in enhancing the Teamwork. 
+
+Working Software 
+
+It has been a practice in Waterfall to deliver design documents, architecture documents 
+or test plans, test cases etc to the customer before we deliver the real piece of working 
+software. 
+
+. However, in Agile way of working, this practice should be substituted with delivering 
+piece of working software increment every iteration. 
+. It doesn’t mean that we have to avoid documentation completely; but only necessary 
+documentation is produced. 
+. The valuable software should be delivered early and frequently during the development. 
+. Agile development in a way helps in reducing the time taken for the product/software to 
+reach the market giving scope for frequent feedback. 
+
+
+Customer Collaboration 
+
+Customers often do not know what they really want until they see something working. 
+
+
+. Even more, those days are gone when customers gave specifications in thick binders. 
+. In a rapidly changing era, upfront requirement specification seems to be a big challenge. 
+. Frequent customer collaboration may help the development team to understand the 
+needs of the customer in greater detail. 
+. Writing contracts with the customers is a profit motive and collaboration is a purpose 
+motive. 
+. Purpose motive should be given more importance than profit motive. 
+
+
+Responding to Change 
+
+Change is constant and unavoidable in software development projects. 
+
+. Most of the software organizations need to respond to changing business needs and 
+regulation amendments for their survival. 
+. In the current market scenario of digital world, the business priorities change at a faster 
+pace frequently. 
+. It is predominantly important that software development should adopt to the changing 
+needs to meet the business goals. 
+. The flexibility to accommodate changes into the plan is more significant than just writing 
+a plan and following it. 
+
+
+Principles of the Agile Manifesto: 
+
+The core Agile Manifesto values are captured in twelve principles: 
+
+ 
+
+Agile Manifesto
+The different Agile methodologies provide prescriptive practices to put these values and 
+principles into action. 
+
+
+What is Whole-Team Approach in Agile methodology? 
+
+The whole-team approach is a collaborative approach where all the team members with 
+necessary skills and knowledge will do their best to accomplish the goal thus 
+contributing to the success of the project. 
+
+. A Product Owner who is the customer representative is also part of the team. 
+. The Agile teams are small usually not exceeding 7 team members plus or minus 2 team 
+members, stable and cross functional. 
+. Everyone in the team is seated at same physical location, ideally no barriers between 
+them to enable smooth communication. 
+. All the Scrum ceremonies are attended by everyone where the progress of the assigned 
+task is discussed and any potential road blocks are raised. 
+. In this way the whole-team approach helps in building healthier and stronger teams for 
+improving team bonding and synergy. 
+
+
+The benefits of this approach in Agile software product development are 
+
+. Helps team in building strong working relationships through effective cooperation, 
+teamwork and communication. 
+. Helps team members to learn and share knowledge from each other. 
+. Making everyone in the collectively responsible for the outcome 
+
+
+Quality is one of the key parameters that whole agile whole team is responsible for. 
+
+. It involves both developers and testers supporting each other at every step. 
+. This includes creating acceptance tests, creating suitable test strategy and building an 
+automation test suite. 
+. The developers and testers can often have informal meetings to work out the strategy to 
+create a new product increment. 
+. “Power of three” is a collaborating concept which involves developers, testers and 
+business representatives in discussing and finalizing the features to work on, in future. 
+
+
+For example: Testers can log defects in a tracking tool and collaborate with developers 
+to replicate it and get it fixed in the same iteration, which will always add more value to 
+the product quality, rather than testers just think that their only job is to just raise 
+defects. 
+
+Why is Early and Frequent Feedback in Agile methodology important? 
+
+Frequent feedback is vital for Agile development teams to understand whether the team 
+is going in the direction as expected. The product increment developed by Agile team 
+will be subjected to stakeholder review and any feedback may be appended to the 
+product backlog, which can prioritized at the discretion of the Product Owner. One of the 
+best ways to provide frequent feedback is through Continuous Integration (discussed 
+later). 
+
+
+. During Waterfall development, each activity like design, development, testing is 
+considered as a phase, but in agile all the activities is done in small chunks every 
+iteration. 
+. In waterfall, the customer can see the software working at the end of the project, and at 
+that stage the changes are very costly and involve significant rework. 
+. Instead, if the feedback is obtained at the end of every iteration, it may be very easy for 
+the team to make up the feedback and go along. 
+. It also serves as an important tool to adopt modifications in the application. 
+. Highest business value features are delivered first to the customer by development 
+teams through the use of early and frequent feedback. 
+
+
+It also in a way helps the team to measure its own capacity so that they do not grossly 
+over commit thus building high degree of transparency into the planning process. 
+
+For example: As a team, how many story point we need to commit in this sprint? What 
+do you think that can help us moving quicker? Is there anything that is really stopping us 
+from moving forward? 
+
+The following are the benefits of early and frequent feedback: 
+
+. Breaking all the requirements in small pieces of individual work items will avoid mistakes 
+that may be too costly to fix later. 
+. Customer availability for any questions to the team makes the product development 
+robust, so that team exactly build what customer wants. 
+. The team will be able to deliver at a constant and sustainable pace. 
+. Sharing agile productivity metrics helps the team to understand the gaps better so that 
+they can find ways to improve themselves. 
+
+
+What are Agile Software Development approaches? Scrum, Kanban, XP 
+explained 
+
+Several Agile frameworks are existing in the commercial market which are being widely 
+used by the organizations. All these agile framework embrace Agile manifesto, Agile 
+principles and values. The following section describes the agile software development 
+approaches in detail. 
+
+The scope of this syllabus document covers three agile frameworks or approaches: 
+
+1. Scrum 
+2. Kanban 
+3. Extreme Programming (XP) 
+
+
+ 
+
+ 
+
+
+What is Scrum? 
+
+Scrum is another Agile Development framework and has several key features that are 
+shown the Figure given below and explained in detail. 
+
+ 
+Sprint 
+
+scrum methodology
+Scrum framework divides the product development into iterations known as “Sprints” 
+which are time boxed to fixed length of 1 – 4 weeks. 
+
+. Every iteration should attempt to build a potentially shippable (properly tested) product 
+increment. 
+. The time duration for the Sprint and how long it lasts, is decided by the team based on 
+their requirements and capabilities. 
+. The Sprint duration once finalized should not be modified. 
+. Product Increment: At the end of the every Sprint the development team delivers a 
+potentially shippable product that is tested and works well. Since Sprints are short in 
+durations, only important features would be developed first. This also gives customers a 
+product that has the basic features that they can test and provide feedback on. 
+. Product Backlog: The set of all requirements broken down into small work items and 
+prioritized into a list is called product backlog. 
+. The product backlog emerges over a period of time. 
+. Refinement of the product backlog is done during the Product Backlog 
+refinement meeting. 
+. Basically Product Backlog is the requirements for the project and these 
+requirements may be refined during each Sprint. 
+
+
+
+
+
+
+Sprint Backlog: Sprint Backlog contains all the known User Stories (or requirements) in the 
+current Sprint. 
+. The requirement with top priority listed first. 
+. The team pulls the stories into the Sprint and work collectively. 
+. Sprint Backlog is basically a list of all the requirements that need to be completed 
+during the Sprint ordered by priority. 
+
+
+
+User Stories: Detailed requirements in Agile software development are captured in the form of 
+User Stories, from the point of view of the user rather than the organization or project. 
+. It captures who, what and why of the requirement from the users perspective. 
+. Ex. As a customer <role>, I want to <action> so that I can <reason or goal>. 
+. User stories are short and concise statements. 
+. They are recorded on sticky notes, index cards etc so that they can be stuck on 
+walls or tables to be rearranged or used during discussion. 
+
+
+
+Definition of Done: Definition of Done is a checklist of all exit criteria that must be completed 
+by the team to call it Done. Definition of Done exists at User story level, Sprint level and 
+Release level. 
+Time boxing: Time boxing is a concept of fixed time duration in which the team is expected to 
+complete the committed features of work. Every ceremony in Scrum is time boxed as per the 
+recommendations given in the Scrum guide. 
+Daily Stand Up Meeting: In Scrum methodology of Agile software development, teams hold a 
+daily planning meeting called the “Daily Scrum Meeting” or “Scrum Meeting” or “Stand-up 
+meeting”. 
+. In this meeting each team members give an update on 3 questions to the rest of 
+the team and not specifically to the management. 
+. These questions are – What have I accomplished yesterday? What will I do 
+today? and What is stopping me from proceeding? This increases the visibility of 
+the tasks to everyone in the team. 
+. This meeting can be also used to raise any potential impediments that block 
+team from accomplishing the sprint goal. 
+. These meetings are not expected to last more than 15 minutes and is held at the 
+same time and place, everyday. 
+. A task board may be installed near the teams physical location where everyone 
+can see the tasks moving from one block to the other. 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+What is Kanban? 
+
+The word ‘Kan’ means Visual ‘ban’ means Card. So the meaning of Kanban translates 
+into Visual Card, which refers to a signal card which is emerging as part of Lean 
+Software Development. The primary purpose of Kanban is to visualize the work flow 
+and optimize it and reduce the cycle time of delivering fully completed features. 
+
+Basically, Kanban uses three artifacts 
+
+. Kanban Board: The board that displays various states of and its moment across the 
+states related to specific activities, e.g., development or testing. It is used to understand 
+the current prioritized work that is being done and also frequent bottle necks across 
+various states. 
+. Work-in-Progress Limit: The number of tasks that can be in progress in one state is 
+strictly controlled. The lesser the Work in progress number, the more focus and 
+attention, the team can give to it while working. Whenever, a state has some free 
+capacity, a team member can pull in the next high priority task into the Kanban board. 
+. Lead Time: Lead time is the time interval between the time of ticket creation and time of 
+ticket closure. Kanban system is used to effectively optimize the continuous flow of 
+tasks across the states and improve the lead time. 
+
+
+Figure 2 below shows the Kanban board and its states 
+
+ 
+
+Kanban board with states
+Figure-2 Kanban board with states 
+
+ 
+
+ 
+
+
+What is Extreme Programming? 
+
+Also known as XP, Extreme Programming was first developed by Kent Beck. XP is an 
+Agile software development framework guided by Agile development practices, 
+principles, and values. 
+
+XP values are: Feedback, simplicity, communication, respect and courage. 
+
+Principles driving Extreme Programming are: Humanity, mutual benefit, economics, 
+improvement, diversity, self-similarity, opportunity, reflection, redundancy, flow, baby 
+steps, failure, quality, and accepted responsibility. 
+
+13 Practices that guide XP engineering are: Whole team, energized work, sit 
+together, informative workspace, slack, stories, pair programming, weekly cycle, 
+quarterly cycle, continuous integration, ten-minute build, incremental design and test 
+first programming. 
+
+Several frameworks like Scrum, Kanban adapt to the best engineering practices 
+prescribed by XP. 
+
+For example, Scrum team often reuses Extreme Programming engineering practices to 
+build quality into the product increment. 
+
+ 
+
+
+The roles in Agile methodology specially Scrum are quite different from the traditional 
+roles other software development methodologies. Clearly defined roles and 
+expectations help individuals perform their tasks efficiently. 
+
+There are three key roles that are defined in Scrum: 
+
+What is a Scrum Master – Roles and Responsibilities 
+
+Scrum Master is a Scrum Champion, ensures everyone follows the practices prescribed 
+by Scrum. 
+
+. He is a facilitator and Servant Leader who encourages and demands self-
+organization from the development team. 
+. He enables close cooperation across all roles and functions, addresses resource 
+issue and disobedience of scrum practices. 
+. He protects the team from external and internal distractions. 
+. He removes impediments so the team can focus on the work at hand and follow 
+scrum practices. 
+. He is not typically a manager or lead, but he is an influential leader and coach 
+who does not do direct command and control. 
+
+
+
+Scrum Product Owner – Roles and Responsibilities 
+
+Product Owner in Agile is like a spokesperson for customer and needs to represent 
+them, 
+
+. This person owns the Product backlog and writes user stories and acceptance 
+criteria. 
+. Product Backlog is prioritized by him and he decides the release date and the 
+content. 
+. He accepts or rejects user stories. 
+. He has the power to cancel the Sprint, if he thinks the Sprint goal is redundant. 
+. He is the one who is responsible for the Return on Investment of the product. 
+
+
+Development team – Roles and Responsibilities 
+
+Is a cross functional, small and self-organizing team which owns the collective 
+responsibility of developing, testing and releasing the Product increment. There may not 
+be any team lead since decisions are taken collectively by the team. The role of a 
+tester in an agile team is discussed in detail, later. 
+
+ 
+
+What is User Story Template in Agile software development? 
+
+In Agile Software development, requirements are captured from the point of value of the 
+user. There are usually several actors that are acting on the system called User 
+Personas (example: User, Admin, Customer, Supplier etc). It should not be written from 
+a developer or tester or manager’s perspective. The Product Owner along with team 
+usually writes user stories and the Product Owner explains the User Story to the 
+development team, and clarifies any questions the team might have. 
+
+User stories can be written for functional characteristics with acceptance criteria which 
+should be initially written by the Product Owner and later reviewed along with the team. 
+User stories can be also written for technical stories which indirectly derive a value to 
+the functional user stories (example: Java Update, Hibernate Upgrade etc). 
+
+The tester can also be part of the team discussion along with the Product Owner and 
+help team to bring up any missing points. He also take help of Product Owner to review 
+the test cases he writes for specific story to validate his understanding. 
+
+ 
+
+ 
+
+ 
+
+
+A tester many rely on INVEST acronym for understanding and analyzing user stories 
+
+. Independent: avoid introducing dependencies, combine to deliver in a single Sprint 
+. Negotiable: stories are not contracts; need flexibility to adjust how much gets 
+implemented 
+. Valuable: how the value to users, customers and stakeholders 
+. Estimable: team needs enough details to estimate the effort 
+. Small: stories, sized appropriately for completion in a Sprint (includes testing) 
+. Testable: meets customer needs; understood by all, automate as much as possible 
+
+
+ 
+
+What is User Story in Agile Development
+Example of a User Story with acceptance criteria is given below: 
+
+Story: As a customer, I would like to have an email sent to my normal email 
+address when my account goes into overdraft so that I know that I need to put money 
+into my account. 
+
+Acceptance criteria: When and account goes into overdraft, the system will issue a 
+secure message to the user’s account, then the system will: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+1. Check to determine if the user has a valid email account in their file 
+. If there is a valid email address on file, the system will send a message to that 
+address indicating that a message is available 
+. If there is not an email address on file, the system will flag the account as 
+incomplete 
+
+
+
+The message sent to the customer’s email address will match the text provided by marketing 
+The email sent by the system will be formatted for HTML viewing and will match the graphic 
+design specifications sent by marketing 
+The email will contain a hyperlink which allows the user to jump instantly to the online banking 
+site 
+
+
+The 3C method of a User Story is described as below: 
+
+. Card: The topic of the backlog item, the high level description of the desired system 
+behavior. 
+. Conversation: Detailed requirements are identified throughout planning. This is a dialog 
+between the Product Owner, Scrum Master, scrum team, and others. 
+. Confirmation: Recorded acceptance criteria that insure the backlog item is completed 
+to the specifications of the Product Owner. 
+
+
+There are different ways of writing user stories, however regardless of the way, the 
+acceptance criteria should be just enough to understand the primary requirements. 
+
+What is Retrospective meeting or Retrospection in Agile project 
+management? 
+
+In Agile project management, a retrospective meeting is held at the end of every 
+iteration to discuss what really went well and what didn’t go well and any action items to 
+carry over the next Sprint. Retrospective meetings are a useful to identify the ways of 
+continuous improvement of an Agile team. Few topics for discussion could be about 
+metrics and velocity of the team, tracking tools, defect density, team dynamics, self-
+organization, any potential impediments that surfaced during the iteration etc. 
+
+Retrospectives may also result in test coverage improvements, giving more importance 
+to unit testing, test strategy and test plans. Root causes of various testing related issues 
+can be identified and action items are suggested. Thus it also helps for continuous 
+testing process improvement. Testers bring their unique testing perspective to the 
+retrospective. 
+
+Retrospectives ideally may be held at the same place and same location every iteration. 
+It is highly recommended that Scrum Master, Product Owner and the team only attend 
+the retrospective. Managers and senior management may be barred for entering a retro 
+meeting; the team may not speak up due to inherent fear of management. There is an 
+eco-system of mutual trust and openness be built in a retrospective. 
+
+
+Sprint Retrospective meetings can be facilitated by asking each person in the team to 
+answer a variation on the above questions. Instead of asking what went well, what didn’t 
+go well some teams prefer – 
+
+. What should we start doing 
+. What should we stop doing 
+. What should we continue to do 
+
+
+Teams are asked to be specific in their answers so that effective actions can be taken. 
+The retrospective meeting is usually conducted immediately after the Sprint review 
+meeting. It is recommended that the entire team participate in this exercise so that any 
+issues or concerns that the teams face during the previous Sprint are addressed during 
+the teaming and avoided in upcoming Sprints. 
+
+What is Continuous Integration in Agile methodology? 
+
+Continuous Integration (CI) is a practice in Software Engineering, where all the 
+developers local working code base will be merged to share with a common repository 
+several times during the product development. It was first adopted as a part of Extreme 
+Programming (XP). The main purpose of CI is prevent developers stepping over each 
+other code and eliminate integration issues. CI works in tandem with other best 
+practices like Configuration management, compilation, software build, deployment, and 
+testing which are bundled into a single automated and repeatable process. Due to rapid 
+integration of code, it is more likely that defects surface faster than it could compare to 
+normal manual integration. 
+
+CI has the following built in automation to check the validity of the code that was 
+checked in: 
+
+. Static code analysis: Reporting the results of static code execution 
+. Compile: Generating the executable files by linking the code and compiling after 
+. Unit test: Writing unit tests, executing them, checking code coverage and reporting the 
+results 
+. Deploy: Build the code and install it into a test/production environment. 
+. Integration test: Providing results by executing the integration tests. 
+. Report (dashboard): Indicating the status of key parameters by posting Red, Green, 
+and Yellow to a publicly visible location. 
+
+
+ 
+
+ 
+
+ 
+
+The Cycle of CI has been shown below in the figure 3 
+
+
+ 
+
+Continuous Integration in Agile Methodology
+Figure 3: Cycle of Continuous Integration 
+
+ 
+
+CI helps testers to perform automation effectively to uncover defects at a faster rate and 
+improve the regression results. The automation will also give the percentage of test 
+coverage area. The automation report also covers the number of user stories and 
+functionality mapped to the product increment. Automation also reduces the manual 
+testing effort of the testers and makes their life easy. Testers can also manually test the 
+areas of failure and collaborate with the developers to fix the defects. 
+
+
+There are several tools that are being used in organizations as a part of continuous 
+integration to build the automation scripts. Few examples of the tools are JUnit, 
+Selenium, SONAR etc. CI automation will reduce the time to deliver, since it replaces 
+the traditional manual testing. Build tools are linked to automation server and build 
+server and deploy to testing, staging and production environments. Organizations 
+started using these build tools to replace the traditional quality control. 
+
+CI provides the following benefits to its users 
+
+. Enables a quick feedback mechanism on the build results 
+. Helps collaboration between various product teams within the same organization 
+. Decreases the risk of regression since the code is often churned by other developers. 
+. Maintains version control within for various product releases and patch releases. 
+. Reduces the technical debt within the code. 
+. Allows earlier detection and prevention of defects 
+. Reduces manual testing effort 
+. Provides a facility of falling back to previous versions in case of any problem to the 
+current build 
+
+
+CI also has the following risks and challenges: 
+
+. CI tools maintenance and their administration have associated costs to it. 
+. CI guidelines need to be well established before starting it. 
+. Test automation is a rare skill in the market and existing testers may have to be trained 
+on that. 
+. Full fledge test coverage is required to see the benefits to automation. 
+. Teams sometimes depend too much on the unit testing and ignore automation and 
+acceptance testing. 
+
+
+So in summary, CI is advantageous to a project team, if the required tools are put in 
+place for automating the build process. 
+
+What is Release and Iteration Planning in Agile methodology? 
+
+There are 3 levels of planning in Agile. They are Release Planning, Iteration Planning 
+and Daily Planning. These planning meetings help the Scrum Master, Product Owner 
+and the rest of the team in understanding how the product will be delivered, the 
+complexity involved and their day to day responsibility in the delivery of the product, 
+among other things. 
+
+ 
+
+ 
+
+ 
+
+
+Now we will go into detail of Release Planning, Iteration Planning and Daily 
+Planning. 
+
+Release Planning in Agile Development 
+
+Release Planning is usually performed during the Sprint zero, where there is no product 
+increment delivered. The whole Sprint is dedicated for planning the next release. It is a 
+way of looking ahead on defining what the release goal is, what features that need to 
+delivered during the release, defining the release backlog, breaking features and epics 
+into user stories, writing acceptance criteria for all stories, and estimating the user 
+stories. Release planning also helps team members in defining the test strategy and 
+test approach planning for all iterations. Release plans may change based on new 
+stories added or deleted. The status of the release is tracked prospectively every sprint 
+to understand what it takes to meet the release 
+
+At the start of the release planning, the Product Owner sets the release goal and 
+release time frame. The Product Owner also collaborates with the team 
+(see User story Template in Agile
+), based on the user stories the team performs 
+high architecture evaluation and high level effort estimation in agile. 
+
+Testers are involved in release planning and perform the following activities: 
+
+. Write User stories and acceptance criteria 
+. Seek clarification on those user stories where there is insufficient information. 
+. Determine the high level test strategy for the whole release 
+. Point out any testing risks they might occur 
+. Do a high level test planning 
+. Define the number of test levels to be performed. 
+
+
+Iteration Planning in Agile Development 
+
+Iteration 1 planning is done after release planning. The team pulls the stories into the 
+sprint backlog from the product backlog and tasks them into independent tasks of fewer 
+8 hours each. The also performs risk assessment of stories and decides on a light 
+weight plan on how to address the risks as the sprint moves forward. The team asks 
+questions to the Product Owner on clarifications that might make them to understand 
+the stories in more realistic way. The number of stories that the team pulls in the sprint 
+may depend on team’s capacity or velocity (if known). The capacity planning is done in 
+hours and the velocity planning is done in story points. The team makes a commitment 
+to the sprint backlog and changes the sprint backlog as it emerges. 
+
+ 
+
+ 
+
+
+The testers are also involved in the iteration and can contribute to the same in the 
+following ways: 
+
+. Breaking user stories into testing tasks 
+. Determining test coverage of every story 
+. Creating acceptance tests for user stories 
+. Estimate the testing tasks like creating test strategy, test plans and test cases specific to 
+user stories 
+. Understand and plan for automating user stories and support various levels of testing 
+
+
+Release plans are not static documents and they are liable to change as the external 
+and internal factors change as the iteration executions take place. The release plans 
+may also change due to various internal factors like delivery team capabilities, velocity 
+of the team and technical competencies. The examples of external factors are change 
+in target segments, threat from substitutes, change triggered by superior competitor 
+product. The release dates may be adjusted or scope may be cut down to adjust for the 
+changes. 
+
+As per Scrum, no changes are allowed during the sprint by the Product Owner. The 
+Product Owner cannot add new stories to the sprint backlog during the sprint and 
+distract the team from the executing the sprint goal. The Scrum master must help the 
+team to see that the product owner does not disturb the team, by inserting new work 
+into the team. 
+
+The team, especially testers must understand the big picture in order to release a fine 
+quality product. Any ambiguity regarding the test planning must be carefully considered 
+after due consultations with the rest of the team. 
+
+Release and iteration planning broadly helps the team to prepare test planning checklist 
+related to the following items: 
+
+. The team members responsible for testing 
+. The scope of testing and testing goals to be carried out 
+. The test environment that needs to be setup 
+. The test data to be collected that helps the testing team 
+. The sequence of test activities, dependencies and interfaces related to testing 
+. Any project related quality tests that surface during testing (see Assess quality risks in agile methodology
+). 
+
+
+ 
+
+ 
+
+ 
+
+
+Daily Planning Meeting in Agile Development 
+
+Daily Planning meeting in agile are also called as ‘Stand up meetings’ where the 
+development team and testing team meets daily to discuss What progress in the 
+assigned task they made yesterday, What tasks they have planned to do today and 
+what tasks they will do tomorrow. In addition to these details each member has to tell 
+that how long they are going to take to complete the assigned task within the sprint. If 
+any remaining or pending task of any member of the team is not completed in that 
+particular sprint then they notify such details in the daily meetings. Accordingly the 
+pending task(s) from the previous sprint are taken care in the next sprints. Likewise if 
+there are any changes in the requirement from the customers or any build issues or any 
+blocking issues then such details are also discussed in the meetings. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+CHAPTER 2 
+
+What are Testing and Agile Development Activities? 
+
+The main objective in Agile is to generate working software at the end of iteration and 
+receive feedback from the customer, to provide early business value to the 
+stakeholders. It all starts with release planning at the start of a release followed by 
+construction iterations. At the beginning of iteration there is iteration planning in which 
+the user stories of high priority are pulled into the iteration backlog to define the iteration 
+scope. Design, development and testing happen iteratively throughout the sprint and not 
+at the end of the iteration. All the developers and testers will work together as a team to 
+reach the iteration goal. 
+
+Examples of iteration goals in an eCommerce application: 
+
+. Implement payment gateway functionality to accept Master card and Visa card and 
+reject other cards. 
+. Develop the order checkout process: pay for an order, cancel shipment, pick shipping, 
+gift wrapping, etc 
+
+
+Everyone in the team including developers, testers and business stakeholders have a 
+role in all activities during the iteration. Developers and testers may pair up together to 
+write unit tests. They can also pair up for doing functional testing, Business 
+stakeholders may do User Acceptance Testing (UAT) at the end of every iteration. UAT 
+at the end of the release is bad, it may be too late by then to correct anything. Business 
+Analysts in the team may review test cases and provide feedback to the team, if test 
+cases seem to be missing. 
+
+It is good idea to have stabilization or hardening iteration at the end of every release to 
+reduce the technical debt significantly to complete the release checks like integration 
+testing, release notes, updating wiki etc. It good idea to fix all the defects in the same 
+iteration, without discriminating between critical, major or minor defects. Any defects 
+that spill over out the iteration must be prioritized by Product Owner into the product 
+backlog for the team to pick them up in the coming iteration. This may increase the load 
+of developers and testers in some iteration. However fix the defects as they surface is 
+always a preferred method to improve the quality of the product. All the software 
+developed during several consecutive iterations are integrated into release, and 
+deployed to the production. 
+
+The test strategy during the release planning may also involve discussions about the 
+risks during the testing. A mitigation plan also may be put in place, if the risks occur in 
+future. Each iteration may have test strategy to deal with the specific quality risks that 
+may come during the iteration. The risks may significantly influence the testing effort 
+required for iteration (see Assess quality risks in agile methodology
+). Agile 
+practices like XP recommends pair programming where testers can pair up each other 
+to test features with high risk. Pairing may also be implemented by using various tools 
+
+
+like screen sharing when the team is distributed. The entire Agile team is responsible for 
+the collective ownership of quality of the product. 
+
+Test automation is usually a common best practice in Agile teams. The developers and 
+testers collaborate to create test plan and automation scripting. Testing can be 
+executed locally or remotely. Remote automation test results are centrally published. 
+The higher percentage of test results yields better quality by reducing the escaped 
+defects to production. Developers and testers work together to cover the entire gamete 
+of testing in Agile teams like unit testing, exploratory testing, creating automation 
+scripts, system testing and integration testing. Hence, agile teams prefer testers who is 
+a team player with strong experience in automation testing. 
+
+Since agile teams need to adopt change in due course of product development, they 
+prefer light weight documentation contrary to other traditional methods. Use of 
+automation test beds, will make the life easier for testers as they help in regression 
+testing. The change the teams can be absorbed must be at a sustainable pace and 
+should not pose a risk to the team’s focus on core product development. The 
+product/release backlog must be adjusted to accommodate changes and delete the 
+redundant stories. 
+
+What are Project Work Products in Agile testing? 
+
+Project work products of immediate interest in Agile testing typically fall into three 
+categories: 
+
+1. Businessoriented work products that describe what is needed (e.g., requirements specifications) and how to use it (e.g., user documentation) 
+2. Development work products that describe how the system is built (e.g., database 
+entity- relationship diagrams), that actually implement the system (e.g., code), 
+or that evaluate individual pieces of code (e.g., automated unit tests) 
+3. Test work products that describe how the system is tested (e.g., test strategies and 
+plans), that actually test the system (e.g., manual and automated tests), or that present 
+test results (e.g., test dashboards as discussed in Communicating Test Status and Progress in agile
+) 
+
+
+Agile projects focus more on delivery of working software than producing huge 
+documentation. However, it should not be misinterpreted that there is no documentation 
+in agile projects. Agile projects still recommend minimal and necessary documentation. 
+However, agile frameworks do not suggest any numbers to say how much 
+documentation is needed. The team may have to make a decision during release and 
+iteration planning on what is the necessary documentation they have to produce for 
+each user story and for each release as a whole. 
+
+ 
+
+
+What are Epics in Agile Testing 
+
+Business-oriented work products are categorized into user stories and acceptance 
+criteria. User stories are functional stories that are always written from the point of value 
+of the user. There can be few technical stories also written which indirectly inherit value 
+to the user story. Usually, User stories are vertical slices of small pieces of functionality 
+with acceptance criteria. Collection of complex user stories may be grouped as Epics, 
+which can be broken down further. 
+
+Couple of examples of Epics are: 
+
+1. As an Amazon customer, I would like to be able to order a new blender and have it 
+shipped to my house because my blender broke. 
+2. As a customer of ABC auto insurance company, I would like to be able to report the fact 
+that my neighbor’s son hit my truck with their car so that I can get the claim process 
+started. 
+
+
+Looking at the Epics above, they can be easily broken down into user stories by slicing 
+them vertically and they comply to INVEST criteria. Each Epic and user story contains 
+acceptance criteria with necessary business rules and mockups attached to them. 
+
+Developer work products in Agile projects mostly involves the code and development 
+tools. The team also creates automated unit tests as a part of development. The 
+developers also produce code review document before the code is checked into the test 
+server. Sometimes developer writes unit test, make it fail first and pass it later and 
+refactor it; typically this approach is called as test driven development, in which test are 
+first level of system design. 
+
+Tester work products in Agile project involve, automated tests, test plans, test cases, 
+test strategy document, risk document, defect report and test results. Testers make as 
+simple documentation as they can in agile. 
+
+In some regulated agile projects, more inspection of the documentation that is being 
+produced during the project execution may be required. 
+
+For example: Federal drug administration (FDA) projects require lot of audit reports, 
+strategy reports and compliance reports that need to be produced during the project 
+execution. 
+
+ 
+
+ 
+
+
+What are Test Levels in Agile methodology? 
+
+In Agile projects, test levels are often defined in definition of done document which are 
+logically related to each other and indicates the broad test coverage area. Since, testing 
+in agile is no longer a separate phase by itself, all test levels overlap with each other. 
+The user stories which contain requirements and design description and development 
+along with testing activities overlap with each other. 
+
+Scrum strictly prohibits product owner changing requirements in the middle of the sprint; 
+however, the team can evolve the sprint backlog as they uncover new details about a 
+user story. During a iteration, here is the sequence of tests: 
+
+. Unit testing, typically done by the developer, but sometimes tester also helps 
+. Feature acceptance testing, which may be broken into couple of activities: 
+. Feature verification testing, which is often automated 
+. Feature validation testing, which involves everyone and mostly done manually 
+
+
+
+
+
+Example of Feature acceptance testing: 
+
+As a new depositor, in order to protect my money, I want to save my money a bank 
+account. Since, I am a new depositor, my default opening balance in a new bank 
+account is INR 0.00 
+
+Automated tests are often used for running parallel regression testing to test, if any of 
+the previously developed features might have broken. The continuous integration 
+framework also helps checking if any builds are failing to code compilation errors. The 
+system level test may also get started as soon as user stories are done. 
+
+There are other tests like performance, reliability, usability tests which may also run in 
+parallel to the system tests. Acceptance testing may also include alpha and beta tests 
+based on the type of the product being developed, either in iteration or at the end of the 
+release. User Acceptance Testing at the end of the iteration is good idea. In regulated 
+environments, certain regulatory testing also may be norm to satisfy the audit 
+compliance rules. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+What is Testing and Configuration Management in Agile development? 
+
+ The tools usage in Agile projects must supplement people interaction but should not 
+replace it. In Agile software development projects, there are many tools that are being 
+used in various situations. Few examples of tools are: Developers use tools like SONAR 
+for static analysis and code coverage, JUnit for code coverage. Developers also use 
+configuration management tools like SVN, where they can check in source code, unit 
+tests. The configuration management tool will compile and build the code with test 
+frameworks. 
+
+Examples of few tools that are commonly used with build automation are: 
+
+. Ant 
+. Jenkins 
+. PMD 
+. FindBug 
+. Checkstyle 
+. JSHint 
+. JUnit 
+. Jacoco 
+. Subversion etc 
+
+
+These common toolset and build scripts allows for customization when needed, giving 
+their customers flexibility to configure the tools to their individual needs. They support 
+centralized controls and reporting, decentralized execution (Identity-based security). 
+They can be easily deployed on the existing infrastructure where possible. 
+
+The automated builds also include several functional tests at the integration and system 
+levels. Sometimes functional test run separately from the unit test. The unit test may run 
+more frequently than the functional tests. For example, an automated build is triggered 
+when every time a new software code is checked in, while functional test need not run 
+so frequently. 
+
+The goal of automated tests may also be to check the build function and its stabilization. 
+Any build failure immediately warrants an action from the developers and testers. This 
+can quickly help other developers not to get delayed due to build failure. 
+
+There are 3 kinds of builds, namely Fast builds, Full build, and Push-To-QA build. 
+
+. Fast build is triggered when it detects the source code changes, and it also detects 
+complication, unit testing or packaging errors. It also performs the static code analysis 
+and provides a web based build report on the code coverage. This build can be 
+customized as per the team 
+. Full Build is scheduled usually twice a day, it is same as fast build, and it deploys into 
+DEV server 
+. Push-To-QA build is scheduled On-demand and it deploy the latest DEV build to QA 
+
+
+
+There are frequent changes to software/application in Agile development, effective use 
+of build tools and automated testing helps in managing and minimizing risks related to 
+regression issues. 
+
+What are organizational options for independent testing in Agile 
+development? 
+
+Agile teams are cross functional, meaning both testers and developers will be one team. 
+
+It is well known fact that independent testers often create more defects than testers who 
+are embedded in Agile teams. In Agile teams sometimes developers may also create 
+automated tests. Hence, the testers loose independence and may risk objective 
+evaluation of the defects. 
+
+In teams where they have full independence, assigning testers on-demand may be 
+helpful sometimes during the final days of the sprint. This really make testers 
+independent and become objective. However, there could be several factors that can 
+impact the testing. 
+
+One more option is to have an separate independent test team where testers are 
+allocated to Agile teams for long term. But we may have to reverse some of the Agile 
+basics and go back to waterfall and implement waterfall under Agile umbrella. Agile 
+teams are small, stable, develop long term relationships between them for the purpose 
+carrying test activities and developing automated test tools. 
+
+Communicating Test Status, Progress and Product Quality in Agile 
+Methodology 
+
+ Agile teams have to produce working software at the end of iteration. There are lot of 
+simple tools and techniques in place by which agile teams can monitor the status of 
+iteration. Different tools and techniques available for Agile teams to record their status 
+are: 
+
+. Daily standup, it is a daily planning meeting; this meeting is not be exactly meant to 
+update daily status 
+. Various soft dashboards. 
+. Sprint Burndown charts. 
+. Big visible task boards at the team location. 
+. Wiki portal where everyone can update the daily progress. 
+. Lastly, emails in simple language that everyone can understand. 
+
+
+Agile teams may also use tools like Rally, Version One, Jira etc to know the status of 
+the sprint or release. These tools generate great metrics where several inferences can 
+
+
+be drawn. The testers can also generate update the tools on automation status and 
+testing progress for the current sprint. 
+
+Sprint Burndown Chart 
+
+Agile team use burn down charts to track progress in every iteration. The burn down 
+always gives the “To Do” work in the current iteration. It may not focus on what was 
+accomplished. A burn down chart can also be measured for sprints to track scope 
+versus story points. The image of daily burn down is shown in Figure below. 
+
+The task board serves as a visual representation of the agile team, including 
+development and testing. There are story cards on the left to do and development and 
+testing tasks shown in progress. There may be columns of “To do”, “In Progress” and 
+“Done” states in the task board. We can use multiple color Post-it’s to make the task 
+board attractive. 
+
+ 
+
+ 
+
+Sprint Burn Down Charts
+Figure : Sprint Daily Burndown chart 
+
+ 
+
+
+It is recommended that the whole team do their daily standup before the task board and 
+give their standup update. The team can move the tasks back and forth, if the team 
+feels that they are in the wrong place. Any tasks including testing tasks are moving as 
+per the expectations. The team can take a collective decision to address them by 
+pairing up. There can be various testing tasks related to automation, test plans, test 
+strategy, exploratory and manual tests in that task board. 
+
+The daily standup includes all agile team members, where each team member is 
+supposed to give update on the three questions. 
+
+. What did I do yesterday that helped the Development Team meet the Sprint Goal? 
+. What will I do today to help the Development Team meet the Sprint Goal? 
+. Do I see any impediment that prevents me or the Development Team from meeting the 
+Sprint Goal? 
+
+
+The ScrumMaster will make a note of any impediments and that come in the way and 
+tries to address them offline. Few examples of impediments that may come up during 
+standup are 
+
+. Server outage due to which cannot move forward in the development. 
+. A tester local database instance got corrupted due to which the data base is not working 
+. A problem that is related to accessing the third party database. 
+
+
+In order to improve the overall quality of the product that is being developed, agile 
+teams take lot of informal feedback from the Product Owner. The teams may also 
+initiate a customer feedback survey to capture the voice of the customer. They can also 
+use several other metrics, the defect density, the test coverage percentage, the number 
+of team members per story, the regression test results and code churn. Metrics must be 
+carefully measured, since the management get what they measure 
+
+For example: 
+
+. If the management sets velocity targets to the team, the team may inflate story points of 
+all stories 
+. If the management sets 100% utilization, the team may mark up the hours and show 
+more than 100% utilization, but no value delivered to the customer. 
+
+
+ 
+
+ 
+
+ 
+
+
+How to manage Regression Risk and evolve manual, automated test cases 
+in Agile methodology? 
+
+Agile teams largely make incremental delivery, what that essentially means is, as the 
+number of iteration increases, the size of the product also increases significantly, thus 
+the scope of development and testing also increases. The risk of regression is 
+proportional to the scale of the product. As the product size increases the risk of 
+regression too increases, hence testers may need to have good mitigation plan in place 
+to take care of this risk. 
+
+Extensive automation is highly recommended to get rid of regression risk. The 
+automation scripts are kept updated in every iteration. The testers also play role in 
+managing the technical debt of a legacy product. If the technical debt increases along 
+with the size of the product, it becomes unmanageable for a peak point. All the test 
+cases, test scripts, automation tests are checked in into the configuration management 
+tool so that they can be retrieved and compared during the times of need. It should be 
+noted that keeping the history handy, will always help in audit trial during 
+troubleshooting a major problem. 
+
+Evolving Manual and automated Test Cases 
+
+Testers often do routine job every iteration; however, there might be excessive work 
+load during some iteration it may be difficult to juggle around several issues. The testers 
+at the beginning of the iteration will have to get together to prepare a test strategy to 
+deal with the unknowns and known and proceed accordingly. They testers team should 
+also review the tests written earlier and discuss the probably touch points on where they 
+need to add or delete the scripts. 
+
+Doing automation of every test case will provide easy access to the new defects that 
+are coming up during development. The automation test cases document must be 
+constantly updated in order to keep the ball rolling. Teams may also review the 
+functionality that was tested till date and may retrospect on improving the same. 
+
+The daily build contains automated regression tests and it connected to the continuous 
+integration environment, as soon as it detects the new check-in, it triggers a new build 
+and same is deployed after the build is completed. If the build fails to due to failure in 
+automation regression test fails, the team needs to stop their work immediately and 
+investigate the reasons for failure. The test could have failed due to various reasons or 
+test case is no longer needed for the system and it may have to be replaced with 
+another suitable test case. When a test case is failed due to inherent defect that exists 
+in the system, it is recommended that the team fixes the defects before moving to new 
+feature development. 
+
+ 
+
+
+Additionally, apart from test automation, the following testing tests may also be 
+automated: 
+
+. Generating test data 
+. Test data loading 
+. Deployment of builds in test environments 
+. Back-out test environment 
+. Comparing data outputs 
+
+
+What are the different Agile Testing Methodology? Test Driven 
+Development, Behavior Driven Development 
+
+ Agile testing methods embrace the principles of Agile software development which 
+involves all the cross functional Agile team members, in which team members with 
+testing expertise are also involved. This ensures that business value is delivered to the 
+customer at frequent intervals, working at a sustainable pace. There are various testing 
+methods which include writing test cases and running them before writing the code. 
+Some testing methodologies which are commonly used in Agile teams are listed 
+below: 
+
+. Test Driven Development (TDD) 
+. Acceptance Test Driven Development 
+. Behavior Driven Development (BDD) 
+
+
+There are 3 methods called Test Driven Development, Acceptance Test driven 
+development and Behavior Driven Development which Agile team use to test the 
+code across various levels. Each technique has its own pros and cons and the tests are 
+well written before the code is built. 
+
+What is Test-Driven Development? 
+
+Test-driven development (TDD) is an advanced technique of using automated unit tests 
+to drive the design of software and force decoupling of dependencies. The result of 
+using this practice is a comprehensive suite of unit tests that can be run at any time to 
+provide feedback that the software is still working. This technique is heavily emphasized 
+by those using Agile development methodologies. Creating and running automated 
+tests inside. 
+
+. Abstracting dependencies in an object-oriented world 
+. Refactoring new and old features to remove duplication in code 
+. How to Author a Unit Test 
+. How to Organize Tests into Test Lists 
+. How to Run Selected Tests 
+
+
+ 
+
+
+The motto of test-driven development is “Red, Green and Refactor.” 
+
+. Red: Create a test and make it fail. 
+. Green: Make the test pass by any means necessary. 
+. Refactor: Change the code to remove duplication in your project and to improve the 
+design while ensuring that all tests still pass. 
+
+
+ 
+
+Test Driven Development Agile Testing
+The Red/Green/Refactor cycle is repeated very quickly for each new unit of code 
+
+Benefits of Test Driven Development 
+
+. The suite of unit tests provides constant feedback that each component is still working. 
+. The unit tests act as documentation that cannot go out-of-date, unlike separate 
+documentation, which can and frequently does. 
+. When the test passes and the production code is refactored to remove duplication, it is 
+clear that the code is finished, and the developer can move on to a new test. 
+. Test-driven development forces critical analysis and design because the developer 
+cannot create the production code without truly understanding what the desired result 
+should be and how to test it. 
+. The software tends to be better designed, that is, loosely coupled and easily 
+maintainable, because the developer is free to make design decisions and refactor at 
+any time with confidence that the software is still working. This confidence is gained by 
+running the tests. The need for a design pattern may emerge, and the code can be 
+changed at that time. 
+. The test suite acts as a regression safety net on bugs: If a bug is found, the developer 
+should create a test to reveal the bug and then modify the production code so that the 
+bug goes away and all other tests still pass. On each successive test run, all previous 
+bug fixes are verified. 
+
+
+
+An example of Test Driven Development process is explained below using the Visual 
+Studio. 
+
+When Visual Studio Team System is used, the following steps can be performed while 
+processing a work item that is already assigned. Make sure that a Test Project in the 
+solution available for creating new tests. This project should reference the class library 
+in which you intend to add new functionality. 
+
+Follow these below steps 
+
+1. Understand the requirements of the story, work item, or feature that is being worked on. 
+2. Red: Create a test and make it fail. 
+1. Imagine how the new code should be called and write the test as if the code 
+already existed. We may not get IntelliSense because the new method does not 
+yet exist. 
+2. Create the new production code stub. Write just enough code so that it compiles. 
+3. Run the test. It should fail. This is a calibration measure to ensure that your test 
+is calling the correct code and that the code is not working by accident. This is a 
+meaningful failure, and you expect it to fail. 
+
+
+
+3. Green: Make the test pass by any means necessary. 
+1. Write the production code to make the test pass. Keep it simple. 
+2. Some advocate the hard-coding of the expected return value first to verify that 
+the test correctly detects success. This varies from practitioner to practitioner. 
+3. If the code is written so that the test passes as intended, you are finished. Code 
+need not be written more speculatively. The test is the objective definition of 
+“done.” If new functionality is still needed, then another test is needed. Make this 
+one test pass and continue. 
+4. When the test passes, it might want to run all tests up to this point to build 
+confidence that everything else is still working. 
+
+
+
+4. Refactor: Change the code to remove duplication in your project and to improve the 
+design while ensuring that all tests still pass. 
+1. Remove duplication caused by the addition of the new functionality. 
+2. Make design changes to improve the overall solution. 
+3. After each refactoring, rerun all the tests to ensure that they all still pass. 
+
+
+
+5. Repeat the cycle. Each cycle should be very short, and a typical hour should contain 
+many Red/Green/Refactor cycles. 
+
+
+What is Acceptance Test-Driven Development? 
+
+Acceptance tests are from the user’s point of view – the external view of the system. 
+They examine externally visible effects, such as specifying the correct output of a 
+system given a particular input. In general, they are implementation independent, 
+although automation of them may not be. (See User story Template in Agile
+). Acceptance tests are a part of an overall testing strategy. Acceptance test driven development 
+is explained in detail on this site. 
+
+
+Acceptance tests are created when the requirements are analyzed and prior to coding. 
+Failing tests provide quick feedback that the requirements are not being met. The tests 
+are specified in business domain terms. The terms then form a ubiquitous language that 
+is shared between the customers, developers, and testers. Tests and requirements are 
+interrelated. 
+
+A requirement that lacks a test may not be implemented properly. A test that does not 
+refer to a requirement is an unneeded test. An acceptance test that is developed after 
+implementation begins represents a new requirement. Acceptance criteria are a 
+description of what would be checked by a test. 
+
+Given a requirement such as “As a user, I want to check out a book from the library”, an 
+acceptance criterion might be “Verify the book is marked as checked out.” An 
+acceptance test for this requirement gives the details so that the test can be run with the 
+same effect each time. 
+
+What is Behavior-Driven development? 
+
+. The suite of unit tests provides constant feedback that each component is still working. 
+. The unit tests act as documentation that cannot go out-of-date, unlike separate 
+documentation, which can and frequently does. 
+. When the test passes and the production code is refactored to remove duplication, it is 
+clear that the code is finished, and the developer can move on to a new test. 
+. Test-driven development forces critical analysis and design because the developer 
+cannot create the production code without truly understanding what the desired result 
+should be and how to test it. 
+. The software tends to be better designed, that is, loosely coupled and easily 
+maintainable, because the developer is free to make design decisions and refactor at 
+any time with confidence that the software is still working. This confidence is gained by 
+running the tests. The need for a design pattern may emerge, and the code can be 
+changed at that time. 
+. The test suite acts as a regression safety net on bugs: If a bug is found, the developer 
+should create a test to reveal the bug and then modify the production code so that the 
+bug goes away and all other tests still pass. On each successive test run, all previous 
+bug fixes are verified. 
+. It also reduces debugging time. 
+
+
+
+ 
+
+Behavior driven development test driven behaviour agile
+What are Test Pyramid and Testing Quadrants in Agile Testing 
+Methodology? 
+
+The software test pyramid comes up a lot in Agile testing circles and while its core 
+message is important, there is much more to say about building a well-balanced test 
+portfolio. In particular a common problem is that teams conflate the concepts of end-to-
+end tests, UI tests, and customer facing tests like acceptance, system and integration 
+tests. These are all orthogonal characteristics. The unit tests and integration tests which 
+use API’s are integrated and automated. GUI-based tools are used for creating the 
+system and acceptance level tests. 
+
+ 
+
+ 
+
+ 
+
+
+Testing Quadrants, Test Levels and Testing Types 
+
+Brain Marick defined the testing quadrants that grossly align with test levels that suit the 
+agile manifesto. This model uncovers the 4 testing quadrants and its variants along with 
+test types and levels plus writing tests for different stakeholders and business people. 
+The testing quadrants contain both business (user) and technology (developer) facing, 
+either manual or automation or a combination of both. 
+
+The four quadrants are described below: 
+
+. Quadrant Q1 – At unit level contains unit Tests, technology facing, tests subject to full 
+automation and continuous integration. 
+. Quadrant Q2 – At system level, business facing, these are functional tests, examples, 
+story tests, user experience prototypes, and simulations based on the acceptance 
+criteria, be manual or automated. Created as a part of definition of done for a story 
+. Quadrant Q3 – At system or user acceptance level, business facing, contains tests 
+exploratory testing, scenarios, process flows, usability testing, user acceptance testing, 
+alpha testing, and beta testing. These tests are often manual and are user-oriented. 
+. Quadrant Q4 – At system or operational acceptance level, technology facing 
+performance, load, stress, and scalability tests, security tests, maintainability, memory 
+management, compatibility and interoperability, data migration, infrastructure, and 
+recovery testing. These tests are often automated. 
+
+
+ 
+
+Agile Testing Quadrants
+
+In any specific iteration one or more or all tests from all quadrants may be performed 
+depending on the nature of the stories. 
+
+What is the Role and Skills of a Tester in Agile Methodology? 
+
+Throughout this syllabus, there is a baseline Agile reference was made to Agile 
+manifesto and principles and the vital role of tester within iterations, releases and 
+deployments. The following subsection refers to the role of tester using Scrum. 
+
+Teamwork in Agile 
+
+Agile endorses the ENTIRE team approach where the developers, testers and business 
+people work together to meet the sprint and release goal. The following is a list of 
+behavioral traits that a Scrum team must have to produce desired results. 
+
+ 
+
+. Cross-functional: The team members no longer work as component teams like 
+development and testing teams, instead they are all part of one team which helps the 
+them to build a work item end-to-end and they take accountability of the outcome 
+. Self-organizing: The team is self-directed to make own decisions. The team manages 
+themselves to understand each other and is expected to make the right calls at the right 
+time without external command and control from the managers as discussed 
+in Agile testing
+. 
+. Co-located: The team is expected to sit together along with Scrum Master and Product 
+Owner. 
+. Collaborative: Testers and developers mingle together to behave as ONE Team 
+without specialization silos along with the Product Owner and Scrum Master. 
+. Empowered: The team takes their own operational and technical decisions regarding 
+development and testing looping Scrum Master and Product Owner. The team’s 
+empowerment may be disturbed if the Manager exercises command and control from 
+outside. 
+. Committed: The teams along with testers are committed to the product quality to satisfy 
+the Product Owner and customer needs. 
+. Transparent: The daily status is displayed on the Agile task board 
+(see Communicating Test Status, Progress in agile
+) and burn down chart. 
+. Credible: There is always a mutual trust and accountability that must be built with the 
+team of testers and stakeholders as far as the test results are concerned. The test 
+strategy must be transparent and filled with integrity. 
+. Open to feedback: Informal feedback given frequently to the peers within the teams at 
+the time of retrospectives is an important tool for continuous improvement. Often 
+feedback exchanged in the retrospectives is a good way to move forward on the action 
+items. 
+. Resilient: The sprint is a spiral of certain activities that takes place repeatedly and start 
+over and over again. Responding to change is one of the most important activities that 
+maximize the business value. 
+
+
+
+In Agile team, all developers and testers closely collaborate with each other to deliver 
+business value. Every tester has to bring versatile skills on board to become a cross 
+function team member. 
+
+Agile testers must have primary skills in automating test cases, test-driven 
+development, and acceptance test-driven development, manual testing both white box 
+and black-box testing. 
+
+Agile methods ask for greater collaboration, effective communication and interaction 
+between team members and teams outside as well as stake holders who can directly or 
+indirectly influence the product development. 
+
+ 
+
+Following are the few attributes that are expected out of Agile testers: 
+
+. Great interpersonal skills with clarity in expression 
+. Result oriented and positive attitude 
+. Go getter and get it done attitude 
+. Make test results visible to make a collective decision 
+. High quality first mindset, intolerance to any imperfections 
+. Someone who are good at organizing their task boards 
+. Good analytical capabilities to evaluate test results 
+. Understand the user stories and their acceptance criteria 
+. Respond to change without impacting the business 
+. Who are die-hard learners on everything related to testing 
+. Who believe in team wins than individual wins 
+. Constantly upgrade themselves using new tools and techniques 
+
+
+To mitigate these risks, organizations may consider variations for preserving 
+independence discussed in Agile testing 
+
+
+What is Sprint planning in Agile project management? 
+
+ Sprint Planning meeting is one of the key activities in Agile project management. 
+(see Release and Iteration Planning
+). Generally, Agile teams need to deliver a 
+working product at the end of each Sprint. However some organizations also use 
+a Sprint Zero. Sprint Zero is used exclusively for planning the first Sprint and no work 
+product is delivered at the end of Sprint Zero. Usage of Sprint Zero is decided by the 
+team and complexity of the project. 
+
+Not all projects and organizations use Sprint zero. Many teams directly start with the 
+first Sprint and the activities listed below are incorporated as part of Sprint planning 
+meeting. 
+
+
+The developers and testers collaborate with the team on the following activities 
+during Sprint Planning meeting: 
+
+. The Product Owner explains the release goal and walk through the release backlog. 
+. The Product Owner also explains the big picture and vision. 
+. The team with the help of the Product Owner breaks down requirements into user 
+stories, details the acceptance criteria and sizes them. 
+. The team also creates a high level architecture design. 
+. The team plans for necessary infrastructure items and tools for the release (e.g., for test 
+management, defect management, test automation, and continuous integration) 
+. Team creates the initial test strategy for various test levels to understand the test scope; 
+technical risks and initial risks analysis (see Testing Quadrants in Agile methodology
+). 
+. The team establishes various metrics to measure the progress with the help of Scrum 
+Master. 
+. The brainstorms and creates the Definition of done. 
+. The team creates the big visible task board 
+
+
+Integration: 
+
+The end to end integration of code is important to deliver continuous and frequent 
+business value to the customer. It may also be important to identify the dependencies 
+and interfaces between various features and functions of the product during the Sprint 
+Zero. 
+
+Test Planning: 
+
+The Sprint Zero involves test planning and test strategy that may be adapted for the 
+each Sprint during the release. Please click on the link Release and Iteration Planning
+. 
+
+Agile Testing Practices: 
+
+Many XP practices can be useful in scrum team, three of them are: 
+
+. Pairing: Two team members (e.g., a tester and a developer, two testers, or a tester and 
+a product owner) get together to work on a user story and focus on it until it is done; this 
+increases the cross learning and quality of the product. 
+. Incremental test design: The test cases and test scenarios evolve gradually and 
+emerge as the system is incrementally built. 
+. Mind mapping: It is a important and useful tool for testers. For example: Testers may 
+use it to identify the test areas, scenarios and articulate test strategies to describe the 
+test data. 
+
+
+A sample template of tasks which teams discuss and focus on during the Sprint 
+zero/Sprint planning is given below 
+
+1. Team Norms 
+
+
+. Team Name: 
+. Team Name format for communications: 
+. Sprint Length: 
+. Email Distribution List (DL): 
+. Daily Stand-up Time: 
+. Team site: SharePoint? Wiki? Confluence 
+. Add docs, team norms, team members, etc…team page 
+. Link to SVN/GIT docs 
+
+
+
+Be on-time/end-time – respect time boxes 
+Practice Scrum Values – (honesty, courage, respect, commitment, focus) 
+Team member first, specialist second (help when/where needed) 
+Stick to priorities 
+Be Transparent 
+Capacity base – 6 hours 
+Communication 
+. Distribution List (DL), SameTime/Lync/IM, daily stand-up, Discussion in 
+Rally/JIRA/any other planning tool 
+. Rally/JIRA/other Agile planning tool (tasks, estimates, metrics – virtual & mobile) 
+. Schedule recurring Sprint meetings 
+. Schedules may not align, be creative, but do best to include all team members 
+
+
+
+Backlog/stories 
+. In Rally/JIRA/other Agile planning tool 
+
+
+
+
+
+2. Infrastructure 
+
+. Testing of User Story implementation cannot begin until an environment is available 
+. Environments & Builds 
+. Pre-Dev Integration Testing: Nightly or request manual builds (if applicable) 
+. Dev Integration Testing (DIT): Target end of date; builds schedule 
+. Final Integration Testing (FIT): Target date 
+. Coordinate with other teams affected 
+
+
+
+
+
+3. Defects 
+
+. Identify tool for defect tracking 
+. Start with using Rally/JIRA/other defect tracking tool 
+. For defects that are dependent on other groups open one defect in defect tracking tool 
+and communicate to the other group 
+. Defect is opened in defect tracking tool when 
+. Issue cannot be fixed during current Sprint 
+. To tackle time zone challenge in distributed teams 
+. Team in USA finds issue or offshore team has question at 5pm EST – 
+Send email, open defect, use Story/Test case discussion thread 
+. Don’t just open defect and assign – Must follow up with 
+communication/contact 
+
+
+
+
+
+
+
+
+ 4. Project management tools 
+
+. Identify which tools are to be used for task assignment, defect tracking etc 
+
+
+
+How to Assess Quality Risks in Agile methodology? 
+
+ Risk is an event of uncertainty in projects. There are various testing challenges like 
+proper selection, allocation and simulation of test environment. Often risks surface in 
+determining the effort to cover various test conditions, and the way of sequencing 
+resulting tests that optimizes the effectiveness and efficiency of the testing. 
+
+Agile projects embrace less quality risks than the traditional projects, if all the best 
+engineering practices preached in Extreme Programming are put in use. Given the 
+shorter time cycles, some techniques which improve the product quality may be put to 
+use. 
+
+In Agile Projects, the quality risk is likely to take place at couple of places. In fact, it is 
+the responsibility of every team member to rise risks in agile. Anyone in agile team can 
+raise a risk during the scrum ceremonies and propose mitigation strategies for the 
+same. 
+
+. Release planning: The Product Owner who knows the system functionality end-to-end 
+explain the high level risk he/she foresee and the team assesses them. 
+. Iteration planning: the whole team goes through every user story and find out 
+the quality risk associated with them. 
+
+
+Few examples of quality risks are: 
+
+. No test data or incorrect test data to test specific application (a functional risk related to 
+accuracy) 
+. Slow system response to user input data (a non-functional risk related to efficiency and 
+response time) 
+. Screens that with no boundary conditions and business logic (a non-functional risk 
+related to usability and understandability) 
+
+
+In the iteration planning, the estimation of tasks take place in the task board which are 
+prioritized in the order of the quality risks associated by them. Tasks with higher risks 
+priority are one with high priority, need more effort. Similarly tasks with lower risk priority 
+with less effort may be deferred to later part. 
+
+Listed below is an example of quality risk process during iteration planning, 
+
+1. All team members, including testers get into iteration planning meeting. 
+2. The prioritized backlog items are displayed on the task board for the current iteration. 
+3. Considering the quality characteristics, identify the quality risks items with each of them. 
+4. With each identified risk, categorize the level of risk and impact in terms of number of 
+defects that may surface. 
+5. Map the testing effort based on the level of risk 
+6. Based on the level of risk and its quality characteristic, select the appropriate technique 
+to mitigate the risk. 
+
+
+
+The tester takes appropriate actions to address the risk during the iteration execution, 
+which may include the aggregate number of features, their behaviors; quality attributes 
+that affect customer or end user. The team may be mindful of any additional unknown 
+information related to quality risks that was discovered during the execution and 
+appropriate adjustments are made. Adjustments can also come in the form of new risks 
+that shows up, evaluating and changing the level of existing risks and mitigation 
+activities that support the adjustments. 
+
+Quality risks need to be planned for mitigation before the test execution. For example, if 
+problems with the user stories are found during risk identification, the project team can 
+thoroughly review user stories as a mitigating strategy. 
+
+What is Planning Poker? Effort estimation in Agile methodology 
+
+ In the Sprint zero as a part of release planning, the Agile team has come up with effort 
+estimation for all the stories in the release. The Planning Poker is a popular method of 
+effort estimation which ensures that the entire team is involved in the estimation 
+exercise. 
+
+The Planning Poker is a consensus based technique and is used to size the stories (in 
+terms of story point) or effort estimate (in terms of days). 
+
+. It is a non-liner scale of estimation technique. 
+. Fibonacci series is used while playing the planning poker with higher numbers rounded 
+off (0, 0.5, 1, 2, 3, 5, 8, 13, 20, 40, 60, 100). 
+. For example : You have been asked to provide your estimate for a Story, your estimates 
+have to be rounded off to one of the number of the Fibonacci series. 
+. If you feel the task will take 10 days to complete, the estimate you give will have to be 
+either 8 or 13. 
+
+
+Each team member takes a deck of cards and estimates the effort independently for 
+each story. 
+
+. The stories are wall mapped and arranged relatively with respect to small story which 
+can be coded and tested in a day – taken as a reference. 
+. All the stories are arranged relatively with respect to small story from left to right. 
+. The parameters on which the stories are estimated are complexity, ideal time taken (in 
+days) and uncertainty. 
+. It is always a good idea to break the bigger stories into small ones to make them fit into 
+a Sprint. 
+
+
+The following are the steps followed by the team while using the Planning Poker 
+technique: 
+
+1. Product Owner explains the story and its acceptance criteria in detail 
+2. Team discusses the work involved and asks questions to the Product Owner 
+3. Everyone estimates individually without getting influenced by others. 
+
+
+
+4. Each team member selects a poker card that reflects their estimate of the effort required 
+for that story 
+5. Everyone reveals their estimates simultaneously. 
+6. Team members who voted with the lowest and highest estimates explain their reasoning 
+behind their estimation and any misunderstanding of scope is neutralized. 
+7. After discussion, the team members reselect the cards to reflect their estimates based 
+current discussion. 
+8. Take the agreement of final number as the team estimate. 
+9. Repeat the process for all the stories in the Sprint backlog. 
+
+
+This estimation technique makes the estimation and planning exercise much more fun. 
+It also ensures that everyone in the team is on the same page in terms of understanding 
+the requirements for a particular story and the complexity involved. 
+
+What are Testing Techniques in Agile development? 
+
+ Agile testing techniques in most cases are similar to their traditional counter parts. 
+However, Agile methodology may need some special considerations due to variances 
+that standout with respect to techniques, jargon and documentation. 
+
+Acceptance Criteria, Adequate Coverage, and Other 
+Information for Testing 
+
+Requirements in Agile Projects out flow as user stories and the Product Owner along 
+with the team are responsible for writing user stories. The user stories follow a 
+prescribed format from a point of value of the end user. All the user stories are stacked 
+in Product backlog which is prioritized by the Product Owner frequently as per the 
+business needs. The user stories contain acceptance criteria in which the requirements 
+of a story are explained in brief. The acceptance criteria may also contain certain non-
+functional requirements, boundary conditions, and usability and performance conditions 
+and may also relates dependency with other user stories. 
+
+The User stories should be related to a testable outcome, and they pave the way for 
+incremental agile architectures, few examples of are outlined below 
+
+. Expert judgment and previous learnings 
+. Existing features, functionality and the technical characteristics of the architecture. 
+. User Personas (context, system configurations, and user behavior). 
+. Code quality and tools deployed 
+. Wireframes that serve as mockups 
+. Defect density from current and previous iterations 
+. Any regulatory standards, if applicable (e.g., DO-178B for avionics software, IEEE, SOX, 
+FDA) 
+. System quality and risks (see Assess quality risks in agile methodology
+) 
+
+
+
+The development team in every iteration implements features that are prescribed in the 
+user stories, with all the strings attached like verifiable quality built in, code checked in, 
+and validated by acceptance testing. The acceptance criteria should comply with the 
+following traits, 
+
+. Functional behavior: The functionality of the product increment should be reflected as 
+working software in the format when X is given as input and we see Y as output under 
+conditions Z 
+. Quality Characteristics: The performance of the system subjected to specific quality 
+attributes like quality characteristics, reliability, usability that forms the patterns of system 
+behavior. 
+. Scenarios (use cases): A set of actions in a specific order between a User persona and 
+the system, in order to fulfill a business goal. 
+. Business Rules: These are collection of activities that operate on the system under 
+given conditions subjected to various external procedures and constraints (example: The 
+call routing mechanism when a cell phone network initiates a call) 
+. External interfaces: The inter system joints and intra system joints that are yet to be 
+developed for external world. These may be categorized into various types (User 
+interface, other systems interface, etc) 
+. Constraints: Design descriptions and implementations may form certain constraints that 
+will crunch options to the development team. For example: Embedded software devices 
+may often have the constraints related to size, weight, dependency and interfaces. 
+. Data definitions: The customer described format of data type, default values, character 
+lengths for a data items to frame complex business rules and data structures (example: 
+the ZIP code in U.S. snail mail) 
+
+
+Apart from the above considerations, the tester may also find some information about: 
+
+. System usage and its interfaces and operational modes 
+. The importance of current tool kit and it scalability 
+. Tester’s competency about the current testing tasks. 
+. 100% unit test coverage with reviews 
+
+
+
+
+
+What is Definition of Done? Test Levels in Agile software 
+
+ Definition of done suggests the exit criteria of an application delivery or the condition 
+when Testers can mark a user story as complete. There are various test levels 
+incorporated in definition of done in Agile software development. The following list gives 
+examples of various test levels. 
+
+. Unit testing 
+
+
+. Cyclomatic code complexity and analysis of code using tools like SONAR 
+. Defects in ‘acceptable’ state to the Product Owner 
+. Unit tests code reviewed 
+. All unit tests checked-in 
+. All unit tests automated 
+. Performance characteristics are within agreed limits 
+. Defects found reported and counted. 
+. No major regression found 
+. All regression tests are automated and checked in into SVN. 
+. Acceptance criteria tested for both positive and negative tests based on agreed 
+parameters 
+. Quality risks identified and in acceptable 
+. All stories in a release are tested en-to-end 
+. All user persons covered, if applicable 
+. Testing done in staging environment or Production like environment 
+. Performance testing done 
+. Quality risks covered and closed, if applicable. 
+. Defects in “Acceptable” state to the Product Owner. 
+. Regression tests are automated and checked-in 
+. Release interfaces thoroughly checked. 
+
+
+
+
+
+. Integration testing 
+
+ 
+
+. System testing 
+
+User Story 
+
+The definition of done for user stories may be determined by the following criteria: 
+
+. Coding tasks completed. 
+. Code reviews completed. 
+. Exploratory Testing completed and signed. 
+. Regression test reviewed and passed. 
+. Unit testing – written and passed. 
+. Code reviews conducted. 
+. Technical Design Specification updated. 
+. Defects are in an “acceptable” state to the Product Owner. 
+. User story accepted by the product owner. 
+
+
+Feature 
+
+The definition of done for features, which may span multiple user stories or epics, 
+may include: 
+
+. All user stories for various related to their parent epics are accepted 
+. The technical debt is fully paid off, without major deviations 
+. The code is completed 
+
+
+
+. Units were written and passed for all code with full coverage 
+. Defects in “Acceptable” state to the Product Owner 
+
+
+Iteration 
+
+The definition of done for the iteration may include the following: 
+
+. Regression tests run and passed 
+. Smoke / automation tests run (if applicable) 
+. Demo / Review completed 
+. Retrospective completed 
+. Documentation is approved and stored. 
+
+
+ 
+
+ 
+
+Release 
+
+The definition of done for a release, which may span multiple iterations, may include 
+the following areas: 
+
+. Coverage: The extent of coverage is determined by new or changed contents for the 
+release and its complexity, size and associated risks 
+. Quality: The number of defects found per day or transaction is called defect intensity 
+and the number of defects compared to number of user stories is called defect density. 
+These both parameters should remain within permissible limits. The consequences of 
+these limits which may raise residual risk may be fully understood and accepted 
+. Time: Release go/no go business decisions as per the pre-set delivery date may be 
+evaluated. 
+. Cost: The positive return on investment which is calculated development and 
+maintenance cost of the product may be significantly lower than the projected total sales 
+of the product. The escaped defects after product has been released may yield lower 
+return on investment. 
+
+
+What is Acceptance Test-Driven Development in Agile Methodology? 
+
+ Acceptance test-driven development is a test-first approach in which acceptance 
+criteria is well understood by the development team and test cases are created based 
+on the bullet points stated in the acceptance criteria; any modification to the acceptance 
+criteria may done in prior planning meeting in a negotiation with the Product Owner. 
+
+
+The idea of Acceptance test driven development is a set of tests that must pass before 
+an application can be considered finished. The value of testing an application before 
+delivering it is relatively well established. 
+
+The team collaborate together to create test cases, with a business representative 
+validating the test cases. The test cases are essentially the characteristics of a user 
+story. The test cases are also called as examples. 
+
+The examples include positive tests and scenarios that affirm the right behavior of the 
+story and exception handlers based on sequence of activities. Subsequently, negative 
+tests that cover negative validation flows and non-functional requirements like usability 
+and performance may also be covered. Tests are written in simple language providing 
+necessary inputs, throughputs and the expected output. The tests may also cover 
+certain boundary contains that may or may not be part of the story to establish the story 
+dependency to the other stories. In addition, it’s not recommended to duplicate the test 
+cases with similar characteristics. 
+
+Example acceptance test case is given below 
+
+scenario “System approves an card swipe for an amount less than the preset maximum 
+limit” 
+
+{ 
+
+given “the System has selected an open card swipe”, 
+
+and “the System has chosen to approve the swipe”, 
+
+and “the card swipe amount is less than the agreed maximum limit”, 
+
+when “the System completes the action”, 
+
+then “the card swipe should be successfully approved”, 
+
+} 
+
+What is Functional and Non-Functional Black Box Test 
+Design? 
+
+In Agile, developers and testers work together by coding user stories and testing based 
+on the acceptance criteria. The exploratory tests and experience-based tests are 
+created during the test execution (as explained in Exploratory testing in Agile Methodology
+) Testers apply various testing traditional techniques like black box using 
+test design techniques like Equivalence Partitioning
+, Boundary Value Analysis
+, Decision tables
+, and State transition testing 
+to create these tests. 
+
+
+Example of boundary value testing: Test cases with test data values with input 
+boundary between 1 and 1000. 
+
+The non-functional requirements written in user stories can be also tested using Black 
+box testing, which creates a baseline for non-functional quality characteristics. 
+
+For example, the load time of data grid on the main page should be less than 5 sec. 
+
+What is Exploratory Testing in Agile Methodology? 
+
+ Exploratory testing plays an important role in agile testing. It is a simultaneous 
+approach where the testers learn about the system, perform test design and write test 
+cases. It may be sometimes combined with other Experience based testing 
+such as 
+analytical risk-based testing, analytical requirements-based testing, model-based 
+testing, and regression-averse testing. 
+
+During the iteration time box, the test charter provides the boundaries of exploratory 
+testing, which follows and inspect and adapt model, where the next results are 
+performed based on the previous results. The black and white box testing techniques 
+may be used along with exploratory testing. 
+
+A test charter may include the following information: 
+
+. Actor: intended user of the system 
+. Purpose: the theme of the charter including the objective of every actor i.e., the test 
+conditions 
+. Setup: the environment of test execution 
+. Priority: relative importance of this charter with respect to the priority of the associated 
+user story or the risk level 
+. Reference: specifications (e.g., user story), risks, or other information sources 
+. Data: any data that was gathered during the test, such as screen recordings, or screen 
+shots. 
+. Activities: a list of ideas that an actor may want to do with the system (e.g., “Log on to 
+the system as a super user”) and the interesting to test (both positive and negative tests) 
+. Oracle notes: how to evaluate the product to determine correct results (e.g., to capture 
+what happens on the screen and compare to what is written in the user’s manual) 
+. Variations: alternative actions and evaluations to complement the ideas described under 
+activities 
+
+
+Exploratory testing may be used along with session-based test management which 
+could last for a time period of 60-120 min, which makes intangibles more tangible. 
+
+Test sessions include the following: 
+
+. Brief Survey session (to learn how it works) 
+. Analysis of session (evaluation of the functionality or characteristics) 
+. Deep coverage (corner cases, scenarios, interactions) 
+
+
+
+Tester’s ability to ask right and relevant questions determines the test quality 
+
+Few examples are: 
+
+. What is the critical component to find out about the system? 
+. Under what circumstances may the system fail? 
+. What happens if…..? 
+. What should happen when…..? 
+. Are customer needs, requirements, and expectations fulfilled? 
+. Is the system possible to install (and remove if necessary) in all supported upgrade 
+paths? 
+
+
+A set of heuristics can be applied when testing which can guide the tester in how to 
+perform the testing and to evaluate the results. Examples include: 
+
+. Boundaries 
+. CRUD (Create, Read, Update, Delete) 
+. Configuration variations 
+. Interruptions (e.g., log off, shut down, or reboot) 
+
+
+The session metrics are primary means to express the status of the exploratory testing, 
+they may contain some or all of the following parameters 
+
+. Number of sessions completed 
+. Number of problems found 
+. Function areas covered 
+. Percentage of session time spent setting up for testing 
+. Percentage of session time spent testing 
+. Percentage of session time spent investigating problems 
+
+
+It is important that the tester document the results. The following list provides few 
+examples of the results. 
+
+. Test coverage: The input data used, percentage covered, percentage to be covered. 
+. Evaluation notes: observations during testing, stability of the system and feature and 
+next steps 
+. Risk/strategy list: The risk matrix and their coverage till date and any changes to the 
+mitigation plan 
+. Issues, questions, and anomalies: any unforeseen behavior, any questions on efficiency 
+of the approach, any concerns about the ideas/test attempts, test environment, test data, 
+misinterpretation of the function, test script or the system test. 
+. Actual behavior: actual behavior of the system needs to be recorded and saved (e.g., 
+video, screen captures, output data files) 
+
+
+The information may be presented in a summarized form to the stakeholders and 
+management so that it can be understood easily. 
+
+
+ 
+
+ 
+
+ 
+
+What are the Tools in Agile Projects? 
+
+ There are many different types of Agile tools out there. Some are free, some are paid. 
+There are many enterprise tools that support end-to-end flow of software development 
+life cycle including requirements management, test management, defect tracking. In 
+addition, these tools also provide task boards for distributed teams, burndown charts 
+and creating user stories. 
+
+There are few tools in which we can uploaded test cases and tag to user story, some 
+tools also provide plugin for defect tracking tools like ClearQuest. The Configuration 
+management tools are also very much important to manage versions between all levels 
+of automated tests and their artifacts 
+
+Some of the tools mentioned in the following subsections may be picked up by teams 
+for collaboration and information sharing. 
+
+Task Management and Tracking Tools 
+
+For collocated Agile teams it is good to use to task board along with white boards to 
+manage their day to day tasks. For distributed team, using software development life 
+cycle tool may be used. 
+
+These tools serve the following purposes: 
+
+. Agile Project Management managing requirements to stories accepted 
+. Iteration and Sprint management 
+. Write stories and their prioritization for the team and PO 
+. Role based permissions for every persona of the user in Rally 
+. Captures team estimates and projects the velocity trends 
+. Team and multiple team release planning 
+. Generate nice visual reports, charts, dash boards and custom reports 
+. Integration of third party tools like clearquest etc for tracking number of test cases, 
+check-ins, automated updates etc. 
+. Provides development and test sandboxes to experiment something new always. 
+
+
+Examples of Agile tools are Rally, Version One, Jira, 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+Communication and Information Sharing Tools 
+
+In addition to writing emails and verbal communication, agile teams have 3 types of 
+support communication for information sharing; wikis, instant messaging, and desktop 
+sharing. 
+
+Wikis are great way of building online knowledge and frequently referred information, 
+including the following: 
+
+. A wiki can be a great way to plan and manage a project, from conception to completion. 
+Assign tasks, make a timeline, add notes, paste images and other media 
+. Wiki’s are used to create a checklist so that we never forget anything, and it’s done right 
+every time. 
+. Wiki may also be used to log client work.; either hours spent on a project or number of 
+projects completed 
+. Teams working on Web application take take notes, pull snippets from pages, save 
+images all the time and yet it can be hard to keep track of all of them. Keep them all in 
+one place on a wiki for easy access when you need them. 
+. If we get a lot of questions about work, or product, keep an ever-growing FAQ on Wiki to 
+prevent having to repeat your answers too many times. 
+
+
+Instant messaging, audio calls, and video chat tools provide the following benefits: 
+
+. Allow real time face-to-face communication between team members, especially useful 
+for distributed teams 
+. Involve distributed teams for all scrum ceremonies 
+. Low cost due to VOIP technology. 
+
+
+Desktop sharing and screen sharing tools help team members in providing the 
+following: 
+
+. In distributed teams, the team members can pair up every day to do pair programming, 
+code reviews, conducting demo and exercises. 
+. Capturing lessons learnt and retrospectives at the end of every sprint to improve 
+continuously. 
+
+
+These tools should be used to complement and extend, not replace face-to-face 
+communication in Agile teams. 
+
+
+ 
+
+ 
+
+What are Build and Distribution Tools in Agile software testing? 
+
+ As discussed in the article of Continuous Integartion in Agile
+, we studied that daily build and 
+deployment of software is a key practice in Agile teams which requires continuous 
+integration of tools and builds automation tools. Here we will take a look at how build 
+and distribution tools are used in Agile development. 
+
+Configuration Management Tools 
+
+The configuration management tools in Agile teams for storing and versioning the 
+source code, automated tests, manual test and other test work products. Hence it 
+establishes a transparency and traceability between the versions of software tested in 
+specific environments to help teams habituated to rapid change and they don’t step over 
+each other code. There are 2 types of version control systems – centralized source 
+control systems and distributed version control systems. Based on the team size, 
+structure, location and its necessity for third part integration will determine the right 
+version control to use. 
+
+Example of Version Control Tools: SVN, Clear Case, GIT 
+
+Test Design, Implementation, and Execution Tools 
+
+Tools provide important capabilities of Agile testers given the continuous change in 
+agile projects. There are not many testing tools that only specific to Agile, many of these 
+tools can be used for non-Agile projects as well. 
+
+. Test design tools: Usage of tools like mind maps to design and define tests for new 
+feature. 
+. Test case management tools: The life cycle management tool serves as a good 
+source for test case management tool. 
+. Test data preparation and generation tools: Tools that generate test data to an 
+application database. They are helpful to re-define the database structure. There are few 
+test data preparation tools that pull raw data from production and remove sensitive data 
+that affects the confidentiality. 
+. Test data load tools: To load Test data into the application there may be some specific 
+tools needed to save time from manual data entry. Moreover manual data entry is prone 
+to errors. There are some cross data base load techniques like bulk-loading are 
+available using the database management systems. 
+. Automated test execution tools: Test execution records map the test environment 
+information to the test case. They specify the hardware and software environment for 
+execution. They basically say: Run the test case in this environment, for example, on 
+
+
+
+this particular hardware platform, running this particular operating system, and using this 
+particular browser. To ensure that test case passes when it runs in four different test 
+environments, we can create a test execution automation. 
+. Exploratory test tools: There is a need for tools that capture and log transactions of an 
+application during Exploratory testing in Agile Methodology 
+and record the actions undertake. For example 
+logging a defect after reproducing it and providing steps to reproduce it in teams 
+environment is very much helpful for the teams to fix the defect quickly. 
+
+
+Cloud Computing and Virtualization Tools 
+
+Virtualization is software that separates physical infrastructures to create various 
+dedicated small resources. This software makes it possible to run multiple operating 
+systems and multiple applications on the same server at the same time. This in turn 
+avoids the delay caused due to physical severs, which operates on intelligent load 
+balancing factors. The fundamental technology of Virtualization powers cloud 
+computing. There are few test management tools now utilize operate on cloud 
+computing, which helps testers to share the sever snapshots at the point where a 
+defect/fault is detected, and pass it to the developers to investigate the defect. 
+
+ 
+
+
